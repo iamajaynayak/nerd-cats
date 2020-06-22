@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nerd-cats/static/css/main.497289ba.chunk.css",
+    "main.js": "/nerd-cats/static/js/main.8cf3bcf8.chunk.js",
+    "main.js.map": "/nerd-cats/static/js/main.8cf3bcf8.chunk.js.map",
+    "runtime-main.js": "/nerd-cats/static/js/runtime-main.a76b4f55.js",
+    "runtime-main.js.map": "/nerd-cats/static/js/runtime-main.a76b4f55.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/nerd-cats/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.35cf49ca.chunk.js": "/nerd-cats/static/js/2.35cf49ca.chunk.js",
+    "static/js/2.35cf49ca.chunk.js.map": "/nerd-cats/static/js/2.35cf49ca.chunk.js.map",
+    "index.html": "/nerd-cats/index.html",
+    "precache-manifest.20a1418e31ffd4f2717caf2c00ff4d2e.js": "/nerd-cats/precache-manifest.20a1418e31ffd4f2717caf2c00ff4d2e.js",
+    "service-worker.js": "/nerd-cats/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/nerd-cats/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.497289ba.chunk.css.map": "/nerd-cats/static/css/main.497289ba.chunk.css.map",
+    "static/js/2.35cf49ca.chunk.js.LICENSE.txt": "/nerd-cats/static/js/2.35cf49ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a76b4f55.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.35cf49ca.chunk.js",
+    "static/css/main.497289ba.chunk.css",
+    "static/js/main.8cf3bcf8.chunk.js"
+  ]
+}
